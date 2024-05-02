@@ -1,0 +1,3 @@
+#define FinalProject_VERSION_MAJOR @FinalProject_VERSION_MAJOR@
+#define FinalProject_VERSION_MINOR @FinalProject_VERSION_MINOR@
+#define FinalProject_VERSION_PATH @FinalProject_VERSION_PATCH@
